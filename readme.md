@@ -18,10 +18,10 @@ A solução consistirá em criar uma API REST escrita em Java (ou NodeJS) e u
 | code | Texto | Código de identificação do celular | Alfanumérico de 8 caracteres. Não deve se repetir. |
 
 ### Operações
-Deve ser possível cadastrar, pesquisar, editar, excluir e listar todos os celulares. 
+Deve ser possível *cadastrar, pesquisar, editar, excluir e listar* todos os celulares. 
 
 ### Busca
-Deve ser possível buscar celulares por qualquer combinação de seus atributos. Por exemplo, buscar um celular por modelo, ou por marca e cor.
+Deve ser possível buscar celulares por *qualquer combinação* de seus atributos. Por exemplo, buscar um celular por modelo, ou por marca e cor.
 
 ### Validação
 O sistema deve validar todas as entradas, tanto no backend quanto no frontend.
