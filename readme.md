@@ -29,3 +29,9 @@ O sistema deve validar todas as entradas, tanto no backend quanto no frontend.
 O backend deve retornar um resposta com o código HTTP adequado, de acordo com o resultado da validação, além de incluir uma mensagem para cada violação.
 
 O frontend deve validar os campos à medida que o usuário preenche o formulário, e exibir as mensagens de erro correspondentes.
+
+### Outros testes
+
+Teste Front-End Dev (https://github.com/melhorcom/front-end-teste)
+
+Teste Back-End Dev (https://github.com/melhorcom/back-end-teste)
